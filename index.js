@@ -1,4 +1,4 @@
 const app = "I don't do much."
 function Arrays(){
-  var kittens=
+  var kittens=["Milo", "Otis", "Garfield"];
 }
